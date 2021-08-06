@@ -10,7 +10,7 @@ Most data for this repo is stored on XML files and are loaded on the depiction p
 
 If you are _not_ hosting your repo on [Github Pages](https://pages.github.com/), you can download the zip file [here](https://github.com/supermamon/Reposi3/archive/master.zip) and extract to a subfolder on your website.
 
-There are 2 options for those using [Github Pages](https://pages.github.com/).
+There are 2 options for3 those using [Github Pages](https://pages.github.com/).
 
 A. If you want to use your root `username.github.io` as your repo, fork this repo and rename it to `username.github.io`. So when adding it in Cydia, use `https://username.github.io`.
 
