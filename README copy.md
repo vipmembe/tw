@@ -166,3 +166,7 @@ You should now be able to install your tweak into your own repo.
 
 Just a cleanup step, remove the debs that came with this template and re-run the commands on step 3. You can keep the sample depictions for reference by they're not needed for your repo.
 x
+
+```
+
+```
