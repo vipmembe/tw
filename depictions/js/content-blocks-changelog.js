@@ -13,7 +13,7 @@ function getContentBlocks() {
     }
 }
 
-function populateContentBlocks(data, blocks, error, success) {
+function populateContentBlocks(data, blocks, error, success) {main
     $.ajax({
         type    : "GET",
         dataType: "xml",
